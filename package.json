@@ -10,8 +10,8 @@
   },
   "license": "ISC",
   "dependencies": {
-    "beepboop-botkit": "mbrevoort/beepboop-botkit",
-    "botkit": "mbrevoort/botkit"
+    "beepboop-botkit": "mbrevoort/beepboop-botkit#b9c3b13",
+    "botkit": "mbrevoort/botkit#4d8a11b"
   },
   "engines": {
     "node": "4.2.3"
