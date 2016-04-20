@@ -2,3 +2,7 @@ name: khaledbot
 description: "Delivering Major Keys to your Slack Team. Click the button below to launch in your Slack Team"
 avatar: resources/avatar.jpg
 background: resources/khaled.jpg
+slackscopes:
+  - bot
+  - commands
+  - incoming-webhook
